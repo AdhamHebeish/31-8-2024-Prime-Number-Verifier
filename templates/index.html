@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link type="text/css" rel="stylesheet" href="static/styles.css" />
+    <link type="image/svg" rel="icon" href="static/icon.svg" />
+    <title>Prime Number Verifier</title>
+</head>
+<body>
+    <div id="header">
+        <h1 class="s0">Prime Number Verifier</h1>
+    </div>
+    <div id="body">
+        <form id="numform" action="/verify" method="post">
+            <p class="s4">Please enter the number you wish to verify:</p>
+            <input id="numberarea" type="text" name="number" value="" autocomplete="off"/>
+            <div id="buttoncontainer">
+                <input id="button" type="submit" value="Verify" />
+            </div>
+        </form>
+        <div id="resultarea">
+            <p class="s3">{{result}}</p>
+        </div>
+    </div>
+</body>
+</html>

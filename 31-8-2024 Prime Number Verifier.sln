@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "31-8-2024 Prime Number Verifier", "31-8-2024 Prime Number Verifier.pyproj", "{DF92571A-25D6-4BA7-AAFD-B1A1B2401641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF92571A-25D6-4BA7-AAFD-B1A1B2401641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF92571A-25D6-4BA7-AAFD-B1A1B2401641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF92571A-25D6-4BA7-AAFD-B1A1B2401641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF92571A-25D6-4BA7-AAFD-B1A1B2401641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E0090E-22E2-4699-88C0-2FBBEADFB4B6}
+	EndGlobalSection
+EndGlobal
